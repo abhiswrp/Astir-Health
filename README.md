@@ -1,7 +1,7 @@
 # Astir-Health
 Astir Health is a User-Friendly Fitness Tracking Website which allows the user to keep a track of his/her health.
 
-                                Hardware Requirements
+  # Hardware Requirements
   1. Processor requirements : Intel Core III or above
 
   2. Clock Speed : 800 MHz
@@ -12,7 +12,7 @@ Astir Health is a User-Friendly Fitness Tracking Website which allows the user t
 
   5. Hard-Disk : H.D.D./S.D.D. 250 G.B. or above
 
-                           Software Requirements
+  # Software Requirements
   1. Operating System : Windows/Mac O.S./Linux
 
   2. Browser : Any H.T.T.P. Browser
